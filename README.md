@@ -9,8 +9,6 @@ I’m Evan Michner — a fractional product leader and founder building and advi
 **Writing:** https://www.wordsonproduct.com  
 **LinkedIn:** https://www.linkedin.com/in/emichner/
 
----
-
 This repository exists to anchor my public GitHub profile.
 
 Most of my real work lives in **private repositories**, including:

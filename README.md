@@ -20,6 +20,4 @@ https://lisnloop.com
 A modern product-listening platform that helps engineering teams run better customer interviews, extract insights, and make sharper product decisions.
 
 ## Client Work
-I lead product workd across multiple private codebases for venture-backed SaaS companies.
-
-If you’re evaluating my work, see the **Pinned Repositories** on my GitHub profile — they show what I’m actively building and shipping.
+I also lead product work across multiple private codebases for venture-backed SaaS companies.
